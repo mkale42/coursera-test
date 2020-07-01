@@ -40,8 +40,16 @@ body {
 /** END OF HEADER **/
 
 /** MAIN CONTENT **/
-.section-background-color {
+.section {
+	padding: 20px;
+	padding-top: 0;
 	background-color: #ff6600;
+}
+
+.section h3 {
+	padding-bottom: 40px;
+	padding-top: 25px;
+	font-weight: bold;
 }
 
 #top {
