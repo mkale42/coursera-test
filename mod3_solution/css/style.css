@@ -40,13 +40,13 @@ body {
 /** END OF HEADER **/
 
 /** MAIN CONTENT **/
-.section {
+.container .section {
 	padding: 20px;
 	padding-top: 0;
 	background-color: #ff6600;
 }
 
-.section h3 {
+.container .section h3 {
 	padding-bottom: 40px;
 	padding-top: 25px;
 	font-weight: bold;
