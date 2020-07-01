@@ -34,7 +34,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar{
-	border: 2px solid #61122f;
+	border: 2px solid #000000;
 }
 
 /** END OF HEADER **/
@@ -49,6 +49,11 @@ body {
 	margin-bottom: 35px;
 }
 
+.internal-link {
+	text-transform: uppercase;
+	color: #000000;
+	text-decoration: underline;
+}
 /** END OF MAIN CONTENT **/
 
 
